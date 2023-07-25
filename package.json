@@ -1,0 +1,15 @@
+{
+  "name": "cerberus-key-vault",
+  "version": "1.0.0",
+  "description": "Key generator and credentials storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Steven Soltis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
