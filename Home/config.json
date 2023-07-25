@@ -1,0 +1,9 @@
+{
+    "app_name": "My Web App",
+    "app_version": "1.0.0",
+    "api_endpoint": "https://api.example.com",
+    "max_password_length": 16,
+    "min_password_length": 8,
+    "special_characters": "!@#$%^&*"
+  }
+  
