@@ -6,9 +6,15 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f3f3f3;
+
+
+.background-container{
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: url("/background.jpg");
 }
-.container
     
 .login-container {
     max-width: 400px;
@@ -49,4 +55,4 @@ button {
 
 button:hover {
     background-color: #0056b3;
-}
+} 
