@@ -16,5 +16,5 @@
 
 -- .schema STORED_CREDENTIALS
 
--- .schema USERS
+.schema USERS
 
